@@ -17,8 +17,8 @@
           ],
           "population": 8500,
           "area": "15.5 sq km",
-          "latitude": 6.9632,
-          "longitude": 121.9558
+          "latitude": 6.9601,
+          "longitude": 121.9495
         },
         {
           "id": "barangay2",
@@ -33,8 +33,8 @@
           ],
           "population": 6200,
           "area": "18.2 sq km",
-          "latitude": 7.0883,
-          "longitude": 121.9026
+          "latitude": 7.0965,
+          "longitude": 121.9032
         },
         {
           "id": "barangay3",
@@ -49,8 +49,8 @@
           ],
           "population": 5400,
           "area": "12.1 sq km",
-          "latitude": 6.9168,
-          "longitude": 122.0712
+          "latitude": 7.1426,
+          "longitude": 121.9029
         },
         {
           "id": "barangay4",
@@ -65,8 +65,8 @@
           ],
           "population": 12000,
           "area": "8.5 sq km",
-          "latitude": 6.9320,
-          "longitude": 122.0745
+          "latitude": 6.9490,
+          "longitude": 121.9824
         },
         {
           "id": "barangay5",
@@ -81,8 +81,8 @@
           ],
           "population": 7100,
           "area": "14.3 sq km",
-          "latitude": 6.9380,
-          "longitude": 122.0821
+          "latitude": 6.9337,
+          "longitude": 122.0021
         },
         {
           "id": "barangay6",
@@ -93,8 +93,8 @@
           "hazards": ["Flooding", "Storm surge", "Coastal erosion"],
           "population": 9200,
           "area": "16.8 sq km",
-          "latitude": 6.9142,
-          "longitude": 122.0658
+          "latitude": 6.9159,
+          "longitude": 122.0600
         },
         {
           "id": "barangay7",
@@ -105,8 +105,8 @@
           "hazards": ["Flash floods", "Landslides", "Soil erosion"],
           "population": 5800,
           "area": "12.3 sq km",
-          "latitude": 6.9452,
-          "longitude": 122.0925
+          "latitude": 6.9819,
+          "longitude": 121.9996
         },
         {
           "id": "barangay8",
@@ -117,8 +117,8 @@
           "hazards": ["Flooding", "Typhoon damage", "Infrastructure risks"],
           "population": 7500,
           "area": "14.1 sq km",
-          "latitude": 6.9289,
-          "longitude": 122.0912
+          "latitude": 6.9507,
+          "longitude": 122.0551
         },
         {
           "id": "barangay9",
@@ -129,8 +129,8 @@
           "hazards": ["Landslides", "Flash floods", "Water scarcity"],
           "population": 6200,
           "area": "18.2 sq km",
-          "latitude": 6.9198,
-          "longitude": 122.0828
+          "latitude": 6.9243,
+          "longitude": 122.0296
         },
         {
           "id": "barangay10",
@@ -141,8 +141,8 @@
           "hazards": ["Urban flooding", "Drainage issues", "Traffic congestion"],
           "population": 10300,
           "area": "9.5 sq km",
-          "latitude": 6.9365,
-          "longitude": 122.0756
+          "latitude": 6.9188,
+          "longitude": 122.0753
         },
         {
           "id": "barangay11",
@@ -153,8 +153,8 @@
           "hazards": ["Flooding", "Agricultural risks", "Water management"],
           "population": 8100,
           "area": "19.7 sq km",
-          "latitude": 6.9125,
-          "longitude": 122.0645
+          "latitude": 6.9152,
+          "longitude": 122.0445
         },
         {
           "id": "barangay12",
@@ -165,8 +165,8 @@
           "hazards": ["Flash floods", "Typhoon exposure", "Soil conditions"],
           "population": 6700,
           "area": "15.9 sq km",
-          "latitude": 6.9412,
-          "longitude": 122.0889
+          "latitude": 6.9200,
+          "longitude": 122.0722
         },
         {
           "id": "barangay13",
@@ -177,8 +177,8 @@
           "hazards": ["Coastal hazards", "Storm surge", "Erosion"],
           "population": 5400,
           "area": "11.2 sq km",
-          "latitude": 6.9215,
-          "longitude": 122.0692
+          "latitude": 6.9729,
+          "longitude": 122.0339
         },
         {
           "id": "barangay14",
@@ -189,8 +189,8 @@
           "hazards": ["Flooding", "Wind damage", "Water quality"],
           "population": 7900,
           "area": "13.5 sq km",
-          "latitude": 6.9268,
-          "longitude": 122.0834
+          "latitude": 6.9556,
+          "longitude": 121.9739
         },
         {
           "id": "barangay15",
@@ -201,8 +201,8 @@
           "hazards": ["Flash floods", "Landslides", "Mountain hazards"],
           "population": 6300,
           "area": "20.1 sq km",
-          "latitude": 6.9485,
-          "longitude": 122.0945
+          "latitude": 6.9809,
+          "longitude": 122.0504
         },
         {
           "id": "barangay16",
@@ -213,8 +213,8 @@
           "hazards": ["Urban flooding", "Traffic-related risks", "Infrastructure aging"],
           "population": 11200,
           "area": "10.8 sq km",
-          "latitude": 6.9352,
-          "longitude": 122.0778
+          "latitude": 7.0228,
+          "longitude": 121.9891
         },
         {
           "id": "barangay17",
@@ -225,8 +225,8 @@
           "hazards": ["Landslides", "Flash floods", "Soil erosion"],
           "population": 5600,
           "area": "17.3 sq km",
-          "latitude": 6.9498,
-          "longitude": 122.0965
+          "latitude": 6.9390,
+          "longitude": 122.0163
         },
         {
           "id": "barangay18",
@@ -237,8 +237,8 @@
           "hazards": ["Flooding", "Typhoon risks", "Agricultural hazards"],
           "population": 7200,
           "area": "16.5 sq km",
-          "latitude": 6.9142,
-          "longitude": 122.0665
+          "latitude": 6.8967,
+          "longitude": 122.0913
         },
         {
           "id": "barangay19",
@@ -249,8 +249,8 @@
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 6800,
           "area": "18.9 sq km",
-          "latitude": 6.9305,
-          "longitude": 122.0821
+          "latitude": 6.9971,
+          "longitude": 121.9506
         },
         {
           "id": "barangay20",
@@ -261,8 +261,8 @@
           "hazards": ["Mountain hazards", "Landslides", "Flash floods"],
           "population": 6700,
           "area": "22.5 sq km",
-          "latitude": 6.9535,
-          "longitude": 122.0998
+          "latitude": 6.9487,
+          "longitude": 122.0725
         },
         {
           "id": "barangay21",
@@ -272,7 +272,10 @@
           "email": "patalon@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 8400,
-          "area": "14.7 sq km"
+          "area": "14.7 sq km",
+          "latitude": 7.0529,
+          "longitude": 121.9098
+          
         },
         {
           "id": "barangay22",
@@ -282,7 +285,9 @@
           "email": "recodo@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Erosion"],
           "population": 5900,
-          "area": "16.2 sq km"
+          "area": "16.2 sq km",
+          "latitude": 6.9541,
+          "longitude": 121.9625
         },
         {
           "id": "barangay23",
@@ -292,7 +297,9 @@
           "email": "riohondo@zamboanga.gov.ph",
           "hazards": ["River flooding", "Bank erosion", "Seasonal hazards"],
           "population": 9100,
-          "area": "19.4 sq km"
+          "area": "19.4 sq km",
+          "latitude": 6.8997,
+          "longitude": 122.0852
         },
         {
           "id": "barangay24",
@@ -302,7 +309,9 @@
           "email": "sanjose.cawacawa@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon damage", "Water quality"],
           "population": 7300,
-          "area": "15.1 sq km"
+          "area": "15.1 sq km",
+          "latitude": 6.9103,
+          "longitude": 122.0652
         },
         {
           "id": "barangay25",
@@ -312,7 +321,9 @@
           "email": "sanjose.gusu@zamboanga.gov.ph",
           "hazards": ["Flooding", "Landslides", "Agricultural risks"],
           "population": 6900,
-          "area": "17.8 sq km"
+          "area": "17.8 sq km",
+          "latitude": 6.9202,
+          "longitude": 122.0507
         },
         {
           "id": "barangay26",
@@ -322,7 +333,9 @@
           "email": "sanroque@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure aging", "Traffic risks"],
           "population": 10800,
-          "area": "11.3 sq km"
+          "area": "11.3 sq km",
+          "latitude": 6.9349,
+          "longitude": 122.0443
         },
         {
           "id": "barangay27",
@@ -332,7 +345,9 @@
           "email": "sinubung@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind damage", "Drainage issues"],
           "population": 7600,
-          "area": "13.9 sq km"
+          "area": "13.9 sq km",
+          "latitude": 7.0228,
+          "longitude": 121.9192
         },
         {
           "id": "barangay28",
@@ -342,7 +357,9 @@
           "email": "stabarbara@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Soil erosion"],
           "population": 8700,
-          "area": "15.6 sq km"
+          "area": "15.6 sq km",
+          "latitude": 6.9033,
+          "longitude": 122.0821
         },
         {
           "id": "barangay29",
@@ -352,7 +369,9 @@
           "email": "stamaria@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon risks", "Poor drainage"],
           "population": 8900,
-          "area": "16.1 sq km"
+          "area": "16.1 sq km",
+          "latitude": 6.9331,
+          "longitude": 122.0704
         },
         {
           "id": "barangay30",
@@ -362,7 +381,9 @@
           "email": "stonino@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure risks", "Traffic congestion"],
           "population": 11500,
-          "area": "9.8 sq km"
+          "area": "9.8 sq km",
+          "latitude": 6.9091,
+          "longitude": 122.0699
         },
         {
           "id": "barangay31",
@@ -372,7 +393,9 @@
           "email": "talisayan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 6400,
-          "area": "18.6 sq km"
+          "area": "18.6 sq km",
+          "latitude": 6.9885,
+          "longitude": 121.9296
         },
         {
           "id": "barangay32",
@@ -382,7 +405,9 @@
           "email": "tulungatung@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Erosion"],
           "population": 7700,
-          "area": "14.5 sq km"
+          "area": "14.5 sq km",
+          "latitude": 6.9727,
+          "longitude": 121.9597
         },
         {
           "id": "barangay33",
@@ -392,7 +417,9 @@
           "email": "tumaga@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Mountain hazards"],
           "population": 6500,
-          "area": "19.2 sq km"
+          "area": "19.2 sq km",
+          "latitude": 6.9357,
+          "longitude": 122.0788
         },
         {
           "id": "barangay34",
@@ -402,7 +429,9 @@
           "email": "zone1@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure aging", "Traffic hazards"],
           "population": 12300,
-          "area": "10.2 sq km"
+          "area": "10.2 sq km",
+          "latitude": 6.9062,
+          "longitude": 122.0717
         },
         {
           "id": "barangay35",
@@ -412,7 +441,9 @@
           "email": "zone2@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure risks", "Congestion"],
           "population": 11900,
-          "area": "10.5 sq km"
+          "area": "10.5 sq km",
+          "latitude": 6.9080,
+          "longitude": 122.0744
         },
         {
           "id": "barangay36",
@@ -422,7 +453,9 @@
           "email": "zone3@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure aging", "Population density"],
           "population": 12100,
-          "area": "10.8 sq km"
+          "area": "10.8 sq km",
+          "latitude": 6.9088,
+          "longitude": 122.0791
         },
         {
           "id": "barangay37",
@@ -432,7 +465,9 @@
           "email": "zone4@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure risks", "Traffic issues"],
           "population": 11700,
-          "area": "10.1 sq km"
+          "area": "10.1 sq km",
+          "latitude": 6.9042,
+          "longitude": 122.0786
         }
       ]
     },
@@ -450,7 +485,9 @@
           "email": "arenablanco@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Coastal erosion"],
           "population": 6200,
-          "area": "14.3 sq km"
+          "area": "14.3 sq km",
+          "latitude": 6.9167,
+          "longitude": 122.0833
         },
         {
           "id": "barangay39",
@@ -460,7 +497,9 @@
           "email": "bolong@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 5100,
-          "area": "16.8 sq km"
+          "area": "16.8 sq km",
+          "latitude": 7.0983,
+          "longitude": 122.2392
         },
         {
           "id": "barangay40",
@@ -470,7 +509,9 @@
           "email": "buenavista@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural hazards", "Soil erosion"],
           "population": 7400,
-          "area": "18.5 sq km"
+          "area": "18.5 sq km",
+          "latitude": 7.2361,
+          "longitude": 122.2553
         },
         {
           "id": "barangay41",
@@ -480,7 +521,9 @@
           "email": "bunguiao@zamboanga.gov.ph",
           "hazards": ["Landslides", "Flash floods", "Mountain hazards"],
           "population": 5800,
-          "area": "20.2 sq km"
+          "area": "20.2 sq km",
+          "latitude": 7.1044,
+          "longitude": 122.1964
         },
         {
           "id": "barangay42",
@@ -490,7 +533,9 @@
           "email": "busay@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon risks", "Drainage issues"],
           "population": 8300,
-          "area": "15.1 sq km"
+          "area": "15.1 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay43",
@@ -500,7 +545,9 @@
           "email": "cacao@zamboanga.gov.ph",
           "hazards": ["Agricultural hazards", "Flash floods", "Soil conditions"],
           "population": 6900,
-          "area": "19.3 sq km"
+          "area": "19.3 sq km",
+          "latitude": 7.0089,
+          "longitude": 122.1633
         },
         {
           "id": "barangay44",
@@ -510,7 +557,9 @@
           "email": "calabasa@zamboanga.gov.ph",
           "hazards": ["Flooding", "Landslides", "Water management"],
           "population": 5600,
-          "area": "17.6 sq km"
+          "area": "17.6 sq km",
+          "latitude": 7.2464,
+          "longitude": 122.2342
         },
         {
           "id": "barangay45",
@@ -520,7 +569,9 @@
           "email": "culianan@zamboanga.gov.ph",
           "hazards": ["Coastal erosion", "Storm surge", "Saltwater intrusion"],
           "population": 5400,
-          "area": "12.1 sq km"
+          "area": "12.1 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay46",
@@ -530,7 +581,9 @@
           "email": "curuan@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 7100,
-          "area": "14.8 sq km"
+          "area": "14.8 sq km",
+          "latitude": 7.2053,
+          "longitude": 122.2331
         },
         {
           "id": "barangay47",
@@ -540,7 +593,9 @@
           "email": "dita@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Soil erosion"],
           "population": 6300,
-          "area": "18.9 sq km"
+          "area": "18.9 sq km",
+          "latitude": 7.1569,
+          "longitude": 122.2492
         },
         {
           "id": "barangay48",
@@ -550,7 +605,9 @@
           "email": "dulian.bunguiao@zamboanga.gov.ph",
           "hazards": ["Mountain hazards", "Landslides", "Flash floods"],
           "population": 5700,
-          "area": "21.5 sq km"
+          "area": "21.5 sq km",
+          "latitude": 7.1044,
+          "longitude": 122.1964
         },
         {
           "id": "barangay49",
@@ -560,7 +617,9 @@
           "email": "guisao@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind damage", "Drainage issues"],
           "population": 7100,
-          "area": "14.3 sq km"
+          "area": "14.3 sq km",
+          "latitude": 6.9993,
+          "longitude": 122.1517
         },
         {
           "id": "barangay50",
@@ -570,7 +629,9 @@
           "email": "kasanyangan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 6200,
-          "area": "19.1 sq km"
+          "area": "19.1 sq km",
+          "latitude": 6.9486,
+          "longitude": 122.1017
         },
         {
           "id": "barangay51",
@@ -580,7 +641,9 @@
           "email": "lamisahan@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural risks", "Soil erosion"],
           "population": 7800,
-          "area": "16.7 sq km"
+          "area": "16.7 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay52",
@@ -590,7 +653,9 @@
           "email": "landanggua@zamboanga.gov.ph",
           "hazards": ["Coastal hazards", "Storm surge", "Erosion"],
           "population": 5300,
-          "area": "11.8 sq km"
+          "area": "11.8 sq km",
+          "latitude": 6.9993,
+          "longitude": 122.1517
         },
         {
           "id": "barangay53",
@@ -600,7 +665,9 @@
           "email": "landanglaum@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind hazards", "Water quality"],
           "population": 6800,
-          "area": "13.5 sq km"
+          "area": "13.5 sq km",
+          "latitude": 6.9993,
+          "longitude": 122.1517
         },
         {
           "id": "barangay54",
@@ -610,7 +677,9 @@
           "email": "lanzones@zamboanga.gov.ph",
           "hazards": ["Agricultural hazards", "Flooding", "Drought risks"],
           "population": 7200,
-          "area": "17.2 sq km"
+          "area": "17.2 sq km",
+          "latitude": 7.0089,
+          "longitude": 122.1633
         },
         {
           "id": "barangay55",
@@ -620,7 +689,9 @@
           "email": "lapakan@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 8100,
-          "area": "15.4 sq km"
+          "area": "15.4 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay56",
@@ -630,7 +701,9 @@
           "email": "latuan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water management"],
           "population": 6400,
-          "area": "18.3 sq km"
+          "area": "18.3 sq km",
+          "latitude": 7.0014,
+          "longitude": 122.1803
         },
         {
           "id": "barangay57",
@@ -640,7 +713,9 @@
           "email": "licomo@zamboanga.gov.ph",
           "hazards": ["Coastal erosion", "Storm surge", "Flooding"],
           "population": 5900,
-          "area": "12.9 sq km"
+          "area": "12.9 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay58",
@@ -650,7 +725,9 @@
           "email": "limaong@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural risks", "Soil erosion"],
           "population": 7600,
-          "area": "16.1 sq km"
+          "area": "16.1 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay59",
@@ -660,7 +737,9 @@
           "email": "lubigan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Mountain hazards"],
           "population": 6100,
-          "area": "19.7 sq km"
+          "area": "19.7 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay60",
@@ -670,7 +749,9 @@
           "email": "lumayang@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon risks", "Drainage issues"],
           "population": 7900,
-          "area": "14.9 sq km"
+          "area": "14.9 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay61",
@@ -680,7 +761,9 @@
           "email": "lumbangan@zamboanga.gov.ph",
           "hazards": ["Agricultural hazards", "Flooding", "Soil conditions"],
           "population": 6700,
-          "area": "17.8 sq km"
+          "area": "17.8 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay62",
@@ -690,7 +773,9 @@
           "email": "lunzuran@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind damage", "Water scarcity"],
           "population": 5800,
-          "area": "15.5 sq km"
+          "area": "15.5 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay63",
@@ -700,7 +785,9 @@
           "email": "mampang@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Erosion"],
           "population": 6300,
-          "area": "18.2 sq km"
+          "area": "18.2 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay64",
@@ -710,7 +797,9 @@
           "email": "manalipa@zamboanga.gov.ph",
           "hazards": ["River flooding", "Bank erosion", "Seasonal hazards"],
           "population": 9300,
-          "area": "19.7 sq km"
+          "area": "19.7 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay65",
@@ -720,7 +809,9 @@
           "email": "mangusu@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 7200,
-          "area": "16.4 sq km"
+          "area": "16.4 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay66",
@@ -730,7 +821,9 @@
           "email": "manicahan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water management"],
           "population": 5600,
-          "area": "17.9 sq km"
+          "area": "17.9 sq km",
+          "latitude": 6.9803,
+          "longitude": 122.1467
         },
         {
           "id": "barangay67",
@@ -740,7 +833,9 @@
           "email": "mercedes@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural hazards", "Soil erosion"],
           "population": 8200,
-          "area": "15.3 sq km"
+          "area": "15.3 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay68",
@@ -750,7 +845,9 @@
           "email": "muti@zamboanga.gov.ph",
           "hazards": ["Coastal hazards", "Storm surge", "Erosion"],
           "population": 5300,
-          "area": "11.6 sq km"
+          "area": "11.6 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay69",
@@ -760,7 +857,9 @@
           "email": "pangapuyan@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind damage", "Drainage issues"],
           "population": 7500,
-          "area": "14.2 sq km"
+          "area": "14.2 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay70",
@@ -770,7 +869,9 @@
           "email": "panubigan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 6400,
-          "area": "19.1 sq km"
+          "area": "19.1 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay71",
@@ -780,7 +881,9 @@
           "email": "pasilmanta@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural risks", "Soil conditions"],
           "population": 7700,
-          "area": "16.8 sq km"
+          "area": "16.8 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay72",
@@ -790,7 +893,9 @@
           "email": "pasobolong@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Typhoon exposure", "Mountain hazards"],
           "population": 6500,
-          "area": "18.5 sq km"
+          "area": "18.5 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay73",
@@ -800,7 +905,9 @@
           "email": "quiniput@zamboanga.gov.ph",
           "hazards": ["Coastal erosion", "Storm surge", "Flooding"],
           "population": 5200,
-          "area": "12.3 sq km"
+          "area": "12.3 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay74",
@@ -810,7 +917,9 @@
           "email": "salaan@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon risks", "Water quality"],
           "population": 8100,
-          "area": "15.7 sq km"
+          "area": "15.7 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay75",
@@ -820,7 +929,9 @@
           "email": "sangali@zamboanga.gov.ph",
           "hazards": ["Agricultural hazards", "Flooding", "Soil erosion"],
           "population": 6900,
-          "area": "17.4 sq km"
+          "area": "17.4 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay76",
@@ -830,7 +941,9 @@
           "email": "stacatalina@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 8700,
-          "area": "14.6 sq km"
+          "area": "14.6 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay77",
@@ -840,7 +953,9 @@
           "email": "sibulao@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water management"],
           "population": 6200,
-          "area": "19.3 sq km"
+          "area": "19.3 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay78",
@@ -850,7 +965,9 @@
           "email": "tagasilay@zamboanga.gov.ph",
           "hazards": ["Coastal hazards", "Storm surge", "Erosion"],
           "population": 5500,
-          "area": "12.7 sq km"
+          "area": "12.7 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay79",
@@ -860,7 +977,9 @@
           "email": "taguiti@zamboanga.gov.ph",
           "hazards": ["Flooding", "Wind damage", "Drainage issues"],
           "population": 7400,
-          "area": "15.2 sq km"
+          "area": "15.2 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay80",
@@ -870,7 +989,9 @@
           "email": "talabaan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water scarcity"],
           "population": 6100,
-          "area": "18.8 sq km"
+          "area": "18.8 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay81",
@@ -880,7 +1001,9 @@
           "email": "talontaon@zamboanga.gov.ph",
           "hazards": ["Mountain hazards", "Landslides", "Flash floods"],
           "population": 5800,
-          "area": "20.9 sq km"
+          "area": "20.9 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay82",
@@ -890,7 +1013,9 @@
           "email": "taluksangay@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural risks", "Soil erosion"],
           "population": 7200,
-          "area": "16.5 sq km"
+          "area": "16.5 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay83",
@@ -900,7 +1025,9 @@
           "email": "tetuan@zamboanga.gov.ph",
           "hazards": ["Urban flooding", "Infrastructure aging", "Traffic risks"],
           "population": 11200,
-          "area": "13.8 sq km"
+          "area": "13.8 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay84",
@@ -910,7 +1037,9 @@
           "email": "tictapul@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Drainage issues"],
           "population": 6800,
-          "area": "14.4 sq km"
+          "area": "14.4 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay85",
@@ -920,7 +1049,9 @@
           "email": "tigbalabag@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water conditions"],
           "population": 5700,
-          "area": "17.6 sq km"
+          "area": "17.6 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay86",
@@ -930,7 +1061,9 @@
           "email": "tigtabon@zamboanga.gov.ph",
           "hazards": ["Coastal erosion", "Storm surge", "Flooding"],
           "population": 6300,
-          "area": "13.1 sq km"
+          "area": "13.1 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay87",
@@ -940,7 +1073,9 @@
           "email": "tolosa@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural hazards", "Wind damage"],
           "population": 8000,
-          "area": "15.9 sq km"
+          "area": "15.9 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay88",
@@ -950,7 +1085,9 @@
           "email": "tugbungan@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Mountain hazards"],
           "population": 5900,
-          "area": "19.8 sq km"
+          "area": "19.8 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay89",
@@ -960,7 +1097,9 @@
           "email": "tumalutab@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon risks", "Soil erosion"],
           "population": 7100,
-          "area": "16.2 sq km"
+          "area": "16.2 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay90",
@@ -970,7 +1109,9 @@
           "email": "tumitus@zamboanga.gov.ph",
           "hazards": ["Coastal hazards", "Storm surge", "Drainage issues"],
           "population": 6600,
-          "area": "12.5 sq km"
+          "area": "12.5 sq km",
+          "latitude": 7.0110,
+          "longitude": 122.1920
         },
         {
           "id": "barangay91",
@@ -980,7 +1121,9 @@
           "email": "victoria@zamboanga.gov.ph",
           "hazards": ["Flooding", "Agricultural risks", "Water quality"],
           "population": 7800,
-          "area": "17.1 sq km"
+          "area": "17.1 sq km",
+          "latitude": 7.0667,
+          "longitude": 122.1500
         },
         {
           "id": "barangay92",
@@ -990,7 +1133,9 @@
           "email": "vitali@zamboanga.gov.ph",
           "hazards": ["Flash floods", "Landslides", "Water management"],
           "population": 6400,
-          "area": "18.4 sq km"
+          "area": "18.4 sq km",
+          "latitude": 7.0833,
+          "longitude": 122.1667
         },
         {
           "id": "barangay93",
@@ -1000,7 +1145,9 @@
           "email": "zambowood@zamboanga.gov.ph",
           "hazards": ["Flooding", "Typhoon exposure", "Infrastructure risks"],
           "population": 7600,
-          "area": "16.9 sq km"
+          "area": "16.9 sq km",
+          "latitude": 7.1000,
+          "longitude": 122.2000
         }
       ]
     }
