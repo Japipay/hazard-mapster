@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>List of Barangays - Hazard Mapster</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <header>
+    <div class="navbar">
+      <div class="logo">🗺️ Hazard Mapster</div>
+      <nav>
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="list-of-barangays.html" class="nav-link active">List of Barangays</a>
+        <a href="about-developers.html" class="nav-link">About Developers</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- District Selection Section -->
+    <section class="district-section">
+      <h2>Select a District</h2>
+      <p style="color: var(--text-light); margin-bottom: 2rem;">
+        Choose a district to view the barangays and their hazard information.
+      </p>
+      <div class="district-buttons">
+        <button id="district1-btn" class="district-btn active">
+          📍 District 1
+        </button>
+        <button id="district2-btn" class="district-btn">
+          📍 District 2
+        </button>
+      </div>
+    </section>
+
+    <!-- Barangays List -->
+    <section id="barangays-list" class="barangay-list active">
+      <!-- Search Bar -->
+      <div class="search-container">
+        <input 
+          type="text" 
+          id="search-input" 
+          class="search-bar" 
+          placeholder="🔍 Search barangays by name or hazard..."
+          aria-label="Search barangays"
+        >
+        <div id="search-results-count" class="search-results-count"></div>
+      </div>
+      
+      <!-- Barangays Grid -->
+      <div id="barangays-grid" class="card-grid">
+        <!-- Populated by JavaScript -->
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Hazard Mapster. All rights reserved.</p>
+    <p>Helping communities understand local hazards in Zamboanga City</p>
+  </footer>
+
+  <script src="js/script.js"></script>
+  <script>
+    // Load barangays for District 1 on page load
+    document.addEventListener('DOMContentLoaded', () => {
+      setTimeout(() => {
+        const district1Btn = document.getElementById('district1-btn');
+        const district2Btn = document.getElementById('district2-btn');
+        selectDistrict('district1', district1Btn, district2Btn);
+      }, 100);
+    });
+  </script>
+</body>
+</html>
